@@ -1,7 +1,6 @@
 ### Hola, soy Matías 👋
 
-**Full Stack Developer (Spring Boot · React) & UX/UI Designer**
-Estudiante de Ingeniería de Software (10mo ciclo) @ UTP
+**Tech Talent Intern @ Bitel | Freelance Full Stack Developer (Spring Boot · React) | UX/UI Designer | Software Engineering Student @ UTP**
 
 - 🔭 Actualmente: Developer Trainee @ Bitel
 - 💼 Freelance en paralelo: Desarrollo web y consultoría
