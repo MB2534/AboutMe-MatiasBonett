@@ -1,6 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:61DAFB&height=200&section=header&text=Matias%20Bonett&fontSize=40&fontColor=ffffff)
-
-### Hola, soy Matías 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:661010,100:B22222&height=200&section=header&text=Hola,%20soy%20Matias%20%F0%9F%91%8B&fontSize=35&fontColor=ffffff&fontAlignY=35)
 
 **Tech Talent Intern @ Bitel | Freelance Full Stack Developer (Spring Boot · React) | UX/UI Designer | Software Engineering Student @ UTP**
 
