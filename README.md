@@ -1,5 +1,4 @@
 ### Hola, soy Matías 👋
-
 **Tech Talent Intern @ Bitel | Freelance Full Stack Developer (Spring Boot · React) | UX/UI Designer | Software Engineering Student @ UTP**
 
 - 🔭 Actualmente: Developer Trainee @ Bitel
@@ -19,4 +18,4 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=matiasbonett&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MB2534&show_icons=true&theme=dark)
