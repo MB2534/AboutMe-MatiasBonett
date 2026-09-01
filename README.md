@@ -4,7 +4,7 @@
 Estudiante de Ingeniería de Software (10mo ciclo) @ UTP
 
 - 🔭 Actualmente: Developer Trainee @ Bitel
-- 💼 Freelance en paralelo: [DevCode Solutions] — desarrollo web y consultoría
+- 💼 Freelance en paralelo: Desarrollo web y consultoría
 - 🌱 Aprendiendo: sistemas a mayor escala, optimización de código
 - 🌐 Portafolio: [matiasbonett.netlify.app](https://matiasbonett.netlify.app)
 - 💬 Escríbeme: [LinkedIn](https://www.linkedin.com/in/matiasbonett-390a58212)
